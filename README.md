@@ -4,12 +4,12 @@ Welcome to the **first-ever workshop organized by ISA**! The theme of this works
 
 We had the honor of hosting the **Meltemi Team** from the [**Institute for Language and Speech Processing (ILSP)**](https://www.ilsp.gr/en/home-2/), including:  
 
-- [**Vassilis Katsouros**](https://www.linkedin.com/in/vassilis-katsouros-bb07751b0/)  
-- [**Sokratis Sofianopoulos**](https://www.linkedin.com/in/sokratis-sofianopoulos-ba624b6/)  
-- [**Giorgos Paraskeuopoulos**](https://www.linkedin.com/in/geopar/)  
-- [**Prokopis Prokopidis**](https://www.linkedin.com/in/prokopis-prokopidis-6891a6150/)  
-- [**Dimitris Roussis**](https://www.linkedin.com/in/dimitrios-roussis/)  
-- [**Leon Voukoutis**](https://www.linkedin.com/in/leon-voukoutis-867761301/)  
+- [**Vassilis Katsouros**](https://www.linkedin.com/in/vassilis-katsouros-bb07751b0/), Director of Research and Director of ILSP 
+- [**Sokratis Sofianopoulos**](https://www.linkedin.com/in/sokratis-sofianopoulos-ba624b6/), Collaborating Researcher
+- [**Giorgos Paraskeuopoulos**](https://www.linkedin.com/in/geopar/), Collaborating Researcher 
+- [**Prokopis Prokopidis**](https://www.linkedin.com/in/prokopis-prokopidis-6891a6150/), Collaborating Researcher  
+- [**Dimitris Roussis**](https://www.linkedin.com/in/dimitrios-roussis/), Collaborating Researcher
+- [**Leon Voukoutis**](https://www.linkedin.com/in/leon-voukoutis-867761301/), Collaborating Researcher
 
 This repository serves as a summary and resource hub for the day’s activities, including key presentations and hands-on coding sessions.
 
@@ -42,7 +42,7 @@ This workshop would not have been possible without the dedication and hard work 
 - The **Meltemi Team** from the **Institute for Language and Speech Processing (ILSP)** for their great sessions and continued support.
 - **Athens University of Economics and Business** for their generous support and for providing the amphitheatre in the Trias Building.
 
-Special thanks to all our speakers and participants for making this event a success!
+A big thank you to all speakers and participants who were instrumental in creating such a memorable event!
 
 ---
 
