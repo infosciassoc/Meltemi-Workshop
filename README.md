@@ -53,6 +53,6 @@ Special thanks to all our speakers and participants for making this event a succ
 
 ---
 
-**Read this in [Greek](README.gr.md)**:  
+**Read this in [Greek](README.gr.md)**
 
 ---
